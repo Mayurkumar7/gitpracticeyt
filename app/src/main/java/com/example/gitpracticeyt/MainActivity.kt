@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("This is contained my second Commit ")
 
-
-        skjdbgoerglerhj gergpio
+        lfkjbaklfjb
     }
 }
